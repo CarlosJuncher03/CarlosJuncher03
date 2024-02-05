@@ -35,6 +35,7 @@
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+      <img height="50em" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/vmwareworkstation_93912.png" />
       <a href="https://github.com/CarlosJuncher03/PowerBI"><img height="50em" src="https://th.bing.com/th/id/OIP.-1k19OCKn4QQEwqylKk0nAAAAA?rs=1&pid=ImgDetMain"></a>
     </a>
   </div>
