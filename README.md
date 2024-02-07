@@ -34,7 +34,7 @@
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+      <a href="https://github.com/CarlosJuncher03/Virtual_ubuntu/blob/main/README.md"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
       <img height="50em" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/vmwareworkstation_93912.png" />
       <img height="50em" src="https://cdn.kibrispdr.org/data/298/mikrotik-icon-2.jpg" />
       <img height="50em" src="https://th.bing.com/th/id/OIP.4V0BH9_ds5223477MMySSAHaGC?rs=1&pid=ImgDetMain" />
