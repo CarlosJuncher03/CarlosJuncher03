@@ -40,8 +40,7 @@
       <a href="https://github.com/CarlosJuncher03/MySQL-CSV.git"><img height="50em" src="https://th.bing.com/th/id/OIP.4V0BH9_ds5223477MMySSAHaGC?rs=1&pid=ImgDetMain" /></a>
       <img height="50em" src="https://imagensemoldes.com.br/wp-content/uploads/2020/08/%C3%8Dcone-Ferramentas-PNG.png" />
       <a href="https://github.com/CarlosJuncher03/PowerBI"><img height="50em" src="https://th.bing.com/th/id/OIP.-1k19OCKn4QQEwqylKk0nAAAAA?rs=1&pid=ImgDetMain"></a>
-      <a href="https://github.com/CarlosJuncher03/PowerBI"><img height="50em" src="https://th.bing.com/th/id/OIP.Wan48DmTomFcXEWcrAPKuwHaHa?rs=1&pid=ImgDetMain"></a>
-    </a>
+      <a href="https://github.com/CarlosJuncher03/AWS"><img height="50em" src="https://th.bing.com/th/id/OIP.Wan48DmTomFcXEWcrAPKuwHaHa?rs=1&pid=ImgDetMain"></a>
   </div>
 
   <h2>Contatos:</h2>
