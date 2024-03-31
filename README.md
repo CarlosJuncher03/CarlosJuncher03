@@ -28,7 +28,7 @@
 
   <div class="icones">
     <a href="https://github.com/CarlosJuncher03">
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      <a href="https://github.com/CarlosJuncher03/MySQL-CSV"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
@@ -40,6 +40,7 @@
       <a href="https://github.com/CarlosJuncher03/MySQL-CSV.git"><img height="50em" src="https://th.bing.com/th/id/OIP.4V0BH9_ds5223477MMySSAHaGC?rs=1&pid=ImgDetMain" /></a>
       <img height="50em" src="https://imagensemoldes.com.br/wp-content/uploads/2020/08/%C3%8Dcone-Ferramentas-PNG.png" />
       <a href="https://github.com/CarlosJuncher03/PowerBI"><img height="50em" src="https://th.bing.com/th/id/OIP.-1k19OCKn4QQEwqylKk0nAAAAA?rs=1&pid=ImgDetMain"></a>
+      <a href="https://github.com/CarlosJuncher03/PowerBI"><img height="50em" src="https://th.bing.com/th/id/OIP.Wan48DmTomFcXEWcrAPKuwHaHa?rs=1&pid=ImgDetMain"></a>
     </a>
   </div>
 
@@ -47,7 +48,7 @@
   <div>
     <a href="mailto:carlos.juncher@unamet.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://api.whatsapp.com/send?phone=556692486409"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/carlos-eduardo-spak-juncher-640081292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/CarlosJuncher03/AWS"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
   
 
